@@ -1,3 +1,4 @@
+
 # get y_train and y_test data
 y_train = read.table('train/y_train.txt')
 y_test = read.table('test/y_test.txt')
