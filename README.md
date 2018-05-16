@@ -4,6 +4,10 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 
 
+
+
+
+
 1.Merges the X_training, X_test and y_train, y_test sets respectively.
 
 
