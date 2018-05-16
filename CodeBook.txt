@@ -20,7 +20,7 @@ Attribute Information:
 For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration(mean and standard deviation only).  
 - Triaxial Angular velocity from the gyroscope(mean and standard deviation only). 
-- A 81-feature vector with the average of each variable for each activity and each subject. 
+- A 81-feature vector with the average of each variable for each activity and each subject(180 groups totally). 
 - An identifier of the subject who carried out the experiment(the 1st column).
 - Its activity label(the 2nd column). 
 
